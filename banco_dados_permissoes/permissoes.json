@@ -1,0 +1,7 @@
+{
+    "usuarios": [
+        {"nome": "felipe", "acessos": ["entrada", "escritorio", "sala de reunião"]},
+        {"nome": "gustavo", "acessos": ["entrada", "escritorio"]},
+        {"nome": "daniela", "acessos": ["entrada", "escritorio", "sala de servidores"]}
+    ]
+} 
