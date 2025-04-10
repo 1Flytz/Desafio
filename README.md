@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Validador de Acesso
 
 Um programa simples em Python que valida o acesso de usuários a diferentes áreas com base em um arquivo JSON de permissões.
@@ -44,3 +45,6 @@ O arquivo `permissoes.json` deve seguir o seguinte formato:
     ]
 }
 ``` 
+=======
+# Desafio
+>>>>>>> b6fa42ba36244a4109492d1c592d2e9b6838be9f
