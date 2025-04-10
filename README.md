@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Validador de Acesso
 
 Sistema que verifica se um usuário tem permissão para acessar determinadas áreas com base no JSON.
@@ -16,3 +17,6 @@ Sistema que verifica se um usuário tem permissão para acessar determinadas ár
 1. Execute o arquivo `Main.py`
 2. Digite seu nome
 3. Digite a área que deseja acessar
+=======
+# Desafio
+>>>>>>> 128342cc531fd1952e6627916ec23acd11123d42
